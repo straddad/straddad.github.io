@@ -11,7 +11,7 @@
 
 .ch {
 	position: absolute;
-	top: 98px;
+	top: 78px;
 	left: 25px;
 	font-family: Impact;
 	font-size: 50px;
@@ -20,7 +20,7 @@
 
 .ch2 {
 	position: absolute;
-	top: 156px;
+	top: 136px;
 	left: 27px;
 	font-family: Athelas;
 	font-size: 25px;
@@ -44,7 +44,7 @@
 	left: 410px;
 	font-family: Impact;
 	font-size: 30px;
-	color: #09102b;
+	color: white;
 }
 .day{
 	position: absolute;
@@ -90,7 +90,7 @@
 .p2 {
 	position: absolute;
 	top: 580px;
-	left: 840px;
+	left: 830px;
 	font-family: Arial Black;
 	font-size: 25px;
 	color: #ee622b;
@@ -125,120 +125,183 @@
 	font-size: 25px;
 	color: #dcbbb6;
 }
-
+.button {
+	position: absolute;
+	width: 150px;
+	height: 50px;
+	top: 590px;
+	left: 550px;
+	background-color: #09102b;
+	border-radius: 35%;
+	font-family: Impact;
+	font-size: 20px;
+	color: #ee622b;
+	text-align: center;
+	line-height: 50px;	
+}	
+.button:hover {
+	background-color: #ee622b;
+	color: white;
+	cursor: pointer;
+}
 @media (max-width: 375px)
-		(max-height: 812px)
- {
+		{
+
 .ch {
 position: absolute;
-	top: 98px;
-	left: 85px;
+	top: 88px;
+	left: 41px;
 	font-family: Impact;
-	font-size: 50px;
+	font-size: 45px;
 	color: #ee622b;
+	text-align: center;
 }
 .ch2 {
 	position: absolute;
-	top: 156px;
-	left: 27px;
+	top: 135px;
+	left: 45px;
 	font-family: Athelas;
-	font-size: 25px;
+	font-size: 22px;
 	color: #09102b;
+	text-align: center;
 }
 .t {
 	position: absolute; 
 	position: center;
-	top: 380px;
-	left: 186px;
+	top: 220px;
+	left: 115px;
 	font-family: Impact;
-	font-size: 25px;
+	font-size: 27px;
 	color: #09102b;
+	text-align: center;
 }
-	.t2 {
+.t3 {
 	position: absolute; 
 	position: center;
-	top: 387px;
-	left: 410px;
+	top: 260px;
+	left: 95px;
 	font-family: Impact;
-	font-size: 30px;
-	color: #09102b;
+	font-size: 20px;
+	color: white;
+	text-align: center;
 }
 .day{
 	position: absolute;
-	top: 580px;
-	left: 25px;
+	top: 345px;
+	left: 150px;
 	font-family: Arial Black;
-	font-size: 25px;
-	color: #dcbbb6;
+	font-size: 20px;
+	color: #09102b;
+	text-align: center;
+}
+.to{
+	position: absolute;
+	top: 400px;
+	left: 180px;
+	font-family: Arial Black;
+	font-size: 20px;
+	color: #ee622b;
+	text-align: center;
 }
 .day2 {
 	position: absolute;
-	top: 610px;
-	left: 25px;
+	top: 435px;
+	left: 140px;
 	font-family: Arial Black;
-	font-size: 25px;
-	color: #dcbbb6;
+	font-size: 20px;
+	color: #09102b;
+	text-align: center;
 }
 .date {
 	position: absolute;
-	top: 580px;
-	left: 140px;
+	top: 375px;
+	left: 110px;
 	font-family: Arial Black;
-	font-size: 25px;
-	color: #ee622b;
+	font-size: 15px;
+	color: white;
+	text-align: center;
 }
 .date2 {
 	position: absolute;
-	top: 610px;
-	left: 155px;
+	top: 465px;
+	left: 120px;
 	font-family: Arial Black;
-	font-size: 25px;
-	color: #ee622b;
+	font-size: 15px;
+	color: white;
+	text-align: center;
 }
 
 .p1 {
 	position: absolute;
 	top: 550px;
-	left: 840px;
+	left: 130px;
 	font-family: Arial Black;
-	font-size: 25px;
+	font-size: 20px;
 	color: #ee622b;
+	text-align: center;
 }
 .p2 {
 	position: absolute;
 	top: 580px;
-	left: 840px;
+	left: 120px;
 	font-family: Arial Black;
-	font-size: 25px;
+	font-size: 20px;
 	color: #ee622b;
+	text-align: center;
 }
 .p3 {
 	position: absolute;
 	top: 610px;
-	left: 840px;
+	left: 120px;
 	font-family: Arial Black;
-	font-size: 25px;
+	font-size: 20px;
 	color: #ee622b;
+	text-align: center;
 }
 .p4 {
 	position: absolute;
 	top: 550px;
-	left: 918px;
+	left: 195px;
 	font-family: Arial Black;
-	font-size: 25px;
-	color: #dcbbb6;
-}.p5 {
+	font-size: 20px;
+	color: white;
+	text-align: center;
+}
+.p5 {
 	position: absolute;
 	top: 580px;
-	left: 962px;
+	left: 220px;
 	font-family: Arial Black;
-	font-size: 25px;
-	color: #dcbbb6;
-}.p6 {
+	font-size: 20px;
+	color: white;
+	text-align: center;
+}
+.p6 {
 	position: absolute;
 	top: 610px;
-	left: 973px;
+	left: 230px;
 	font-family: Arial Black;
-	font-size: 25px;
-	color: #dcbbb6;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+}
+.button {
+	position: absolute;
+	width: 150px;
+	height: 50px;
+	top: 660px;
+	left: 115px;
+	background-color: #09102b;
+	border-radius: 35%;
+	font-family: Impact;
+	font-size: 20px;
+	color: #ee622b;
+	text-align: center;
+	line-height: 50px;	
+}	
+.button:hover {
+	background-color: #ee622b;
+	color: white
+	cursor: pointer;
+}
 }
