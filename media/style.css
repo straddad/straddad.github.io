@@ -1,0 +1,244 @@
+.bg {
+	position: absolute;
+	width: 100vw;
+	height: 100vh;
+	top: 0px;
+	left: 0px;	
+	background-image: url("Poster.jpg");
+	background-size: cover;
+	background-repeat: no-repeat; 
+}
+
+.ch {
+	position: absolute;
+	top: 98px;
+	left: 25px;
+	font-family: Impact;
+	font-size: 50px;
+	color: #ee622b;
+}
+
+.ch2 {
+	position: absolute;
+	top: 156px;
+	left: 27px;
+	font-family: Athelas;
+	font-size: 25px;
+	color: #09102b;
+}
+
+
+.t {
+	position: absolute; 
+	position: center;
+	top: 380px;
+	left: 186px;
+	font-family: Impact;
+	font-size: 37px;
+	color: #09102b;
+}
+.t2 {
+	position: absolute; 
+	position: center;
+	top: 387px;
+	left: 410px;
+	font-family: Impact;
+	font-size: 30px;
+	color: #09102b;
+}
+.day{
+	position: absolute;
+	top: 580px;
+	left: 25px;
+	font-family: Arial Black;
+	font-size: 25px;
+	color: #dcbbb6;
+}
+.day2 {
+	position: absolute;
+	top: 610px;
+	left: 25px;
+	font-family: Arial Black;
+	font-size: 25px;
+	color: #dcbbb6;
+}
+.date {
+	position: absolute;
+	top: 580px;
+	left: 140px;
+	font-family: Arial Black;
+	font-size: 25px;
+	color: #ee622b;
+}
+.date2 {
+	position: absolute;
+	top: 610px;
+	left: 155px;
+	font-family: Arial Black;
+	font-size: 25px;
+	color: #ee622b;
+}
+
+.p1 {
+	position: absolute;
+	top: 550px;
+	left: 840px;
+	font-family: Arial Black;
+	font-size: 25px;
+	color: #ee622b;
+}
+.p2 {
+	position: absolute;
+	top: 580px;
+	left: 840px;
+	font-family: Arial Black;
+	font-size: 25px;
+	color: #ee622b;
+}
+.p3 {
+	position: absolute;
+	top: 610px;
+	left: 840px;
+	font-family: Arial Black;
+	font-size: 25px;
+	color: #ee622b;
+}
+.p4 {
+	position: absolute;
+	top: 550px;
+	left: 918px;
+	font-family: Arial Black;
+	font-size: 25px;
+	color: #dcbbb6;
+}.p5 {
+	position: absolute;
+	top: 580px;
+	left: 962px;
+	font-family: Arial Black;
+	font-size: 25px;
+	color: #dcbbb6;
+}.p6 {
+	position: absolute;
+	top: 610px;
+	left: 973px;
+	font-family: Arial Black;
+	font-size: 25px;
+	color: #dcbbb6;
+}
+
+@media (max-width: 375px)
+		(max-height: 812px)
+ {
+.ch {
+position: absolute;
+	top: 98px;
+	left: 85px;
+	font-family: Impact;
+	font-size: 50px;
+	color: #ee622b;
+}
+.ch2 {
+	position: absolute;
+	top: 156px;
+	left: 27px;
+	font-family: Athelas;
+	font-size: 25px;
+	color: #09102b;
+}
+.t {
+	position: absolute; 
+	position: center;
+	top: 380px;
+	left: 186px;
+	font-family: Impact;
+	font-size: 25px;
+	color: #09102b;
+}
+	.t2 {
+	position: absolute; 
+	position: center;
+	top: 387px;
+	left: 410px;
+	font-family: Impact;
+	font-size: 30px;
+	color: #09102b;
+}
+.day{
+	position: absolute;
+	top: 580px;
+	left: 25px;
+	font-family: Arial Black;
+	font-size: 25px;
+	color: #dcbbb6;
+}
+.day2 {
+	position: absolute;
+	top: 610px;
+	left: 25px;
+	font-family: Arial Black;
+	font-size: 25px;
+	color: #dcbbb6;
+}
+.date {
+	position: absolute;
+	top: 580px;
+	left: 140px;
+	font-family: Arial Black;
+	font-size: 25px;
+	color: #ee622b;
+}
+.date2 {
+	position: absolute;
+	top: 610px;
+	left: 155px;
+	font-family: Arial Black;
+	font-size: 25px;
+	color: #ee622b;
+}
+
+.p1 {
+	position: absolute;
+	top: 550px;
+	left: 840px;
+	font-family: Arial Black;
+	font-size: 25px;
+	color: #ee622b;
+}
+.p2 {
+	position: absolute;
+	top: 580px;
+	left: 840px;
+	font-family: Arial Black;
+	font-size: 25px;
+	color: #ee622b;
+}
+.p3 {
+	position: absolute;
+	top: 610px;
+	left: 840px;
+	font-family: Arial Black;
+	font-size: 25px;
+	color: #ee622b;
+}
+.p4 {
+	position: absolute;
+	top: 550px;
+	left: 918px;
+	font-family: Arial Black;
+	font-size: 25px;
+	color: #dcbbb6;
+}.p5 {
+	position: absolute;
+	top: 580px;
+	left: 962px;
+	font-family: Arial Black;
+	font-size: 25px;
+	color: #dcbbb6;
+}.p6 {
+	position: absolute;
+	top: 610px;
+	left: 973px;
+	font-family: Arial Black;
+	font-size: 25px;
+	color: #dcbbb6;
+}
