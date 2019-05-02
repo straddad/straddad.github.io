@@ -1,0 +1,10 @@
+.bg {
+	position: absolute;
+	width: 100vw;
+	height: 100vh;
+	top: 0px;
+	left: 0px;
+	background-image: url("garagedoor.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
