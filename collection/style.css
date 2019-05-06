@@ -8,3 +8,87 @@
 	background-size: cover;
 	background-repeat: no-repeat;
 }
+
+.bg2 {
+	position: absolute;
+	width: 100vw;
+	height: 100vh;
+	top: 0px;
+	left: 0px;
+	background-image: url("garagecol.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.bg3 {
+	position: absolute;
+	width: 1500px;
+	height: 1500px;
+	top: 0px;
+	left: 0px;
+	background-image: url("oilcollectionLG.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.bg4 {
+	position: absolute;
+	width: 1500px;
+	height: 1500px;
+	top: 0px;
+	left: 0px;
+	background-image: url("oilcollectioncolor.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.enter {
+	position: absolute;
+	width: 200px;
+	height: 100px;
+	top: 530px;
+	left: 752px;
+	background-color: transparent;
+}
+.enter:hover {
+	background-color: transparent;
+	cursor: pointer;
+}
+
+.bg1 {
+	position: absolute;
+	width: 1500px;
+	height: 1500px;
+	top: 0px;
+	left: 0px;
+	background-image: url("oilcollection.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.shelf1 {
+	position: absolute;
+	width: 320px;
+	height: 460px;
+	top: 60px;
+	left: 50px;
+	background-color: transparent;
+}
+
+.shelf2 {
+	position: absolute;
+	width: 320px;
+	height: 460px;
+	top: 60px;
+	left: 405px;
+	background-color: transparent;
+}
+
+.shelf3 {
+	position: absolute;
+	width: 320px;
+	height: 460px;
+	top: 50px;
+	left: 1140px;
+	background-color: transparent;
+}
