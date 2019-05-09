@@ -26,7 +26,7 @@
 	height: 1500px;
 	top: 0px;
 	left: 0px;
-	background-image: url("oilcollectionLG.jpg");
+	background-image: url("oilcollectionalp.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -91,4 +91,16 @@
 	top: 50px;
 	left: 1140px;
 	background-color: transparent;
+}
+
+.back1 {
+	position: absolute;
+	width: 200px;
+	height: 70px;
+	top: 0px;
+	left: 1280px;
+	background-color: white;
+	text-align: center;
+	font-family: Impact;
+	font-size: 20px;
 }
